@@ -849,6 +849,9 @@
             },
             ".mbr-section-title": {
               "color": "#e25041"
+            },
+            ".lead P": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -858,7 +861,7 @@
           "_anchor": "msg-box3-g",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -876,8 +879,8 @@
             "showButton": true
           },
           "title": "Netflix List",
-          "text": "<p>Lastest update: 25 June 2017<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/VlW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 1</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/VmW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 2</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/Vn9\" data-toolbar=\"-mbrBtnMove\">Account 3</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/Voj\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 4</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/VpP\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 5</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/Vq5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 6</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/VqW\" data-toolbar=\"-mbrBtnMove\">Account 7</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/1JTU\" data-toolbar=\"-mbrBtnMove\">Account 8</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/1d1O\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 9</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://j.gs/99SK\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 10</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/2CEi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 11</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/2CF7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 12</a>    "
+          "text": "<p>Lastest update: 25 June 2017<br><br>الحسابات ليست بالترتيب من الأجدد للأقدم أو العكس, ضربة حظ<b>*</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/2Ctk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 1</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/VmW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 2</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/Vn9\" data-toolbar=\"-mbrBtnMove\">Account 3</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/Voj\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 4</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/2Cvq\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 5</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/Vq5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 6</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/VqW\" data-toolbar=\"-mbrBtnMove\">Account 7</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/1JTU\" data-toolbar=\"-mbrBtnMove\">Account 8</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/1d1O\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 9</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://j.gs/99SK\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 10</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/2CEi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 11</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://atomcurve.com/2CF7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Account 12</a>    "
         }
       ]
     }
