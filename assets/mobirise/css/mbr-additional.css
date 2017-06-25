@@ -776,3 +776,7 @@ h6,
 #menu-7 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box3-g .mbr-section-title,
+#msg-box3-g p {
+  color: #000;
+}
