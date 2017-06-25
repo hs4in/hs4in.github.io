@@ -314,7 +314,7 @@
           "_anchor": "features1-h",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
