@@ -1177,7 +1177,7 @@
           },
           "title4": "A Programmer To Be",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "More than a thousand courses on a single website!<br>&lt;title&gt;Hello, World!&lt;/title&gt;",
+          "caption4": "More than a thousand courses on a single website!<br>&lt;h5&gt;Hello, World!&lt;/h5&gt;",
           "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/20lC\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {
@@ -1253,18 +1253,19 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "change-style",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://bitigee.com/24VM",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Your perfect logo",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption1": "This website will suggest you the best colours and fonts to design your organization's logo",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/24VM\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1277,9 +1278,9 @@
               "color": "#ffffff"
             }
           },
-          "title2": "Responsive",
+          "title2": "Website",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Describe",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media3": {
             "iconFont": {
@@ -1293,9 +1294,9 @@
               "color": "#ffffff"
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Website",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Describe",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media4": {
             "iconFont": {
@@ -1309,9 +1310,9 @@
               "color": "#ffffff"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Website",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Describe",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {
@@ -1354,14 +1355,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
+              "background-color": "#000000",
+              "border-color": "#000000"
             }
           },
           "_name": "features7",
           "_anchor": "features7-16",
           "_params": {
-            "iconsBgColor": "#ffffff",
+            "iconsBgColor": "#000000",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -1387,17 +1388,17 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "change-style",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Website",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Describe",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1408,12 +1409,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title2": "Responsive",
+          "title2": "Website",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Describe",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1424,12 +1425,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Website",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Describe",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1440,12 +1441,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Website",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Describe",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1488,14 +1489,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
+              "background-color": "#000000",
+              "border-color": "#000000"
             }
           },
           "_name": "features7",
           "_anchor": "features7-17",
           "_params": {
-            "iconsBgColor": "#ffffff",
+            "iconsBgColor": "#000000",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -1521,17 +1522,17 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "change-style",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Website",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Describe",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1542,12 +1543,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title2": "Responsive",
+          "title2": "Website",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Describe",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1558,12 +1559,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Website",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Describe",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1574,12 +1575,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Website",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Describe",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
