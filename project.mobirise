@@ -1033,6 +1033,12 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
