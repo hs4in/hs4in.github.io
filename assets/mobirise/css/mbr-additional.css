@@ -862,8 +862,14 @@ h6,
   color: #bcbcbc;
 }
 #features4-m .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features4-m P {
+  color: #ffffff;
+}
+#features4-m H4 {
+  color: #ffffff;
 }
 #features4-n .card-subtitle {
   color: #bcbcbc;
@@ -872,6 +878,12 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-n P {
+  color: #ffffff;
+}
+#features4-n H4 {
+  color: #ffffff;
+}
 #features4-o .card-subtitle {
   color: #bcbcbc;
 }
@@ -879,10 +891,22 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-o H4 {
+  color: #ffffff;
+}
+#features4-o P {
+  color: #ffffff;
+}
 #features4-p .card-subtitle {
   color: #bcbcbc;
 }
 #features4-p .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-p P {
+  color: #ffffff;
+}
+#features4-p H4 {
+  color: #ffffff;
 }
