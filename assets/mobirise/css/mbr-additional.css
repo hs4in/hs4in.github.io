@@ -858,13 +858,31 @@ h6,
 #menu-i .close-icon::after {
   background-color: #ffffff;
 }
-#features7-k .card-subtitle {
+#features4-m .card-subtitle {
   color: #bcbcbc;
 }
-#features7-k .iconbox {
-  background-color: #b8312f;
-  border-color: #b8312f;
+#features4-m .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
-#features7-k P {
-  text-align: center;
+#features4-n .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-n .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-o .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-o .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-p .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-p .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
