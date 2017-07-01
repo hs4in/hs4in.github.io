@@ -1079,17 +1079,17 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
+              "background-color": "#000000",
+              "border-color": "#000000"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "center"
             }
           },
           "_name": "features7",
           "_anchor": "features7-14",
           "_params": {
-            "iconsBgColor": "#ffffff",
+            "iconsBgColor": "#000000",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -1120,7 +1120,7 @@
               "active": true,
               "link": "http://bitigee.com/1yoE",
               "size": 0,
-              "color": "#000000",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
@@ -1137,7 +1137,7 @@
               "active": true,
               "link": "http://microify.com/3AWr",
               "size": 0,
-              "color": "#000000",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
@@ -1149,34 +1149,36 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "change-style",
+              "name": "apple",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://babblecase.com/2AFB",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Can I Jailbreak ?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "caption3": "This website will help you to know if your iDevice can be jailbreaked. You just need to specify your iDevice and iOS version, then wait for the result.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://babblecase.com/2AFB\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Open</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "linegraph",
-              "family": "et-line",
+              "name": "code",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://bitigee.com/20lC",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "A Programmer To Be",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "caption4": "More than a thousand lessons on a one website, all about programming, fixing devices and alot of things to be learned by videos there!",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/20lC\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
           "media5": {
             "iconFont": {
               "active": true,

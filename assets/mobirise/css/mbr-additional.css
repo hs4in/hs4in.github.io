@@ -875,11 +875,11 @@ h6,
   color: #bcbcbc;
 }
 #features7-14 .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #000000;
+  border-color: #000000;
 }
 #features7-14 P {
-  text-align: right;
+  text-align: center;
 }
 #features7-15 .card-subtitle {
   color: #bcbcbc;
