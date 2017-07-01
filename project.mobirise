@@ -1081,6 +1081,9 @@
             ".iconbox": {
               "background-color": "#ffffff",
               "border-color": "#ffffff"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_name": "features7",
@@ -1106,7 +1109,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -1123,30 +1126,31 @@
           },
           "title1": "Amazing Dark Theme",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Best dark theme I've ever seen for Google Chrome, Install it for free by clicking on the icon upside!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Best dark theme I've ever seen for Google Chrome, View &amp; Install it for free by clicking on the icon upside!",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/1yoE\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
+              "name": "change-style",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://microify.com/3AWr",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
-          "title2": "Responsive",
+          "title2": "Unique Screenshots",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "This website allows you to drag your screenshots into several iPhone, iPad, Macbook...etc frames, which will make your screenshot looks more beautiful and realistic.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://microify.com/3AWr\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
+              "name": "change-style",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -1156,7 +1160,7 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1172,7 +1176,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
           "media5": {
             "iconFont": {
               "active": true,
