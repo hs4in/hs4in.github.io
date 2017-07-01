@@ -1259,29 +1259,30 @@
               "link": "http://bitigee.com/24VM",
               "size": 0,
               "color": "#ffffff",
-              "newWindow": false
+              "newWindow": true
             }
           },
-          "title1": "Your perfect logo",
+          "title1": "Perfect Logo",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "This website will suggest you the best colours and fonts to design your organization's logo",
-          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/24VM\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption1": "This website will suggest you the best colours and fonts to design your organization's logo.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/24VM\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
+              "name": "video-play",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://atomcurve.com/1LUK",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
-          "title2": "Website",
+          "title2": "Your Next Movie?",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Describe",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption2": "This website shows you the new and coming soon movies at Cinema and Netflix ...and more features.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://atomcurve.com/1LUK\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
