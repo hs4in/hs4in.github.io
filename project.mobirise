@@ -287,7 +287,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HUSSAiN</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\" aria-expanded=\"true\">LiNKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\" aria-expanded=\"false\">LiNKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
         },
         {
           "_name": "footer1",
@@ -527,7 +527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HUSSAiN</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\" aria-expanded=\"true\">LiNKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\" aria-expanded=\"false\">LiNKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
         },
         {
           "_name": "footer1",
@@ -724,7 +724,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HUSSAiN</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\" aria-expanded=\"true\">LiNKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\" aria-expanded=\"false\">LiNKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
         },
         {
           "_name": "footer1",
@@ -909,8 +909,8 @@
     },
     "links.html": {
       "settings": {
-        "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "title": "LiNKS",
+        "meta_descr": "Websites"
       },
       "components": [
         {
@@ -1127,7 +1127,7 @@
           "title1": "Amazing Dark Theme",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Best dark theme I've ever seen for Google Chrome, View &amp; Install it for free by clicking on the icon upside!",
-          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/1yoE\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/1yoE\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1144,7 +1144,7 @@
           "title2": "Unique Screenshots",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "This website allows you to drag your screenshots into several iPhone, iPad, Macbook...etc frames, which will make your screenshot looks more beautiful and realistic.",
-          "button2": "<a data-app-btn=\"true\" href=\"http://microify.com/3AWr\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://microify.com/3AWr\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1161,7 +1161,7 @@
           "title3": "Can I Jailbreak ?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "This website will help you to know if your iDevice can be jailbreaked. You just need to specify your iDevice and iOS version, then wait for the result.",
-          "button3": "<a data-app-btn=\"true\" href=\"http://babblecase.com/2AFB\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Open</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://babblecase.com/2AFB\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1178,7 +1178,7 @@
           "title4": "A Programmer To Be",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "More than a thousand courses on a single website!<br>&lt;title&gt;Hello, World!&lt;/title&gt;",
-          "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/20lC\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/20lC\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -1220,14 +1220,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
+              "background-color": "#000000",
+              "border-color": "#000000"
             }
           },
           "_name": "features7",
           "_anchor": "features7-15",
           "_params": {
-            "iconsBgColor": "#ffffff",
+            "iconsBgColor": "#000000",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -1247,7 +1247,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -1258,13 +1258,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1274,13 +1274,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1290,13 +1290,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1306,13 +1306,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
