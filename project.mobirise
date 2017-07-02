@@ -1287,34 +1287,36 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
+              "name": "cart-full",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://bitigee.com/2e56",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title3": "Website",
+          "title3": "Be Awesome!",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Describe",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption3": "An awesome lifestyle market for clothing, cases, pillows and lots of things that you'll use it daily.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bitigee.com/2e56\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "linegraph",
-              "family": "et-line",
+              "name": "change-style",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://bitigee.com/2eGG",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
-          "title4": "Website",
+          "title4": "Icons World",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Describe",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption4": "This will help you to give extra beauty for your design, a huge number and shapes of icons.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/2eGG\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
