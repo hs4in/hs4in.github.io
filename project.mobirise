@@ -1385,7 +1385,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -1394,15 +1394,16 @@
               "name": "code",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://picocurl.com/Gt5",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title1": "Website",
+          "title1": "Code!",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Describe",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "What if I told you that,&nbsp;more than<br>25 Million learned coding here :^)<br>(HTML,CSS,Python,JavaScript..etc.)",
+          "button1": "<a data-app-btn=\"true\" href=\"http://picocurl.com/Gt5\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1418,7 +1419,7 @@
           "title2": "Website",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Describe",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1434,7 +1435,7 @@
           "title3": "Website",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Describe",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1450,7 +1451,7 @@
           "title4": "Website",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Describe",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
