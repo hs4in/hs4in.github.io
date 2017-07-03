@@ -1391,7 +1391,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "change-style",
+              "name": "code",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -1407,8 +1407,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
+              "name": "code",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -1423,8 +1423,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
+              "name": "code",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -1439,8 +1439,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "linegraph",
-              "family": "et-line",
+              "name": "code",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -1541,8 +1541,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
+              "name": "code",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
