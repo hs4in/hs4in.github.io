@@ -1442,18 +1442,19 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "code",
-              "family": "MobiriseIcons",
+              "name": "book-open",
+              "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://picocurl.com/ZoN",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
-          "title4": "Website",
+          "title4": "Huge Library!",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Describe",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "The Biggest PDF (EBooks) website on the internet",
+          "button4": "<a data-app-btn=\"true\" href=\"http://picocurl.com/ZoN\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
