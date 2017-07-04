@@ -1428,15 +1428,16 @@
               "name": "code",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://picocurl.com/TXj",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title3": "Website",
+          "title3": "Test your mind&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Describe",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "This page will make it easier for you to choose&nbsp;which programming language your mind is really interested on!",
+          "button3": "<a data-app-btn=\"true\" href=\"http://picocurl.com/TXj\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
