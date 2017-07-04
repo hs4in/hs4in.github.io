@@ -1408,18 +1408,19 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "code",
+              "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://picocurl.com/T8y",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
-          "title2": "Website",
+          "title2": "Free Templates",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Describe",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Need a design to your CV, Receipts, Certificates<br>or whatever is have to be writtern.. here it is!<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://picocurl.com/T8y\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
