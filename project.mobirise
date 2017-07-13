@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -965,9 +965,142 @@
             ".iconbox": {
               "background-color": "#000000",
               "border-color": "#000000"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-1f",
+          "_params": {
+            "iconsBgColor": "#000000",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://tinyical.com/1OeF",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "title1": "1,000 Logos",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "This PDF file worth 4$ contents 1,000 Logo for famous companies by names from 0-10 and A-Z, that will assist you designing for your clients. Get it for FREE! #Design",
+          "button1": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1OeF\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title2": "Website",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Description",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title3": "Website",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Description",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Website",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Description",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#000000",
+              "border-color": "#000000"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_name": "features7",
@@ -1457,7 +1590,7 @@
           },
           "title3": "Files Search Engine",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "This website will translate your search to Google, which will give you better results. #Learn",
+          "caption3": "This website will translate your search to Google, which will give you better results. #Search",
           "button3": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1EXv\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
@@ -1473,7 +1606,7 @@
           },
           "title4": "Torrent Search Engine",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Lots of torrents! all you have to do is searching about anything you want! #Learn",
+          "caption4": "Lots of torrents! all you have to do is searching about anything you want! #Search",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {

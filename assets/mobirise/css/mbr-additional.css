@@ -802,6 +802,13 @@ h6,
 #msg-box8-13 .lead P {
   color: #ffffff;
 }
+#features7-1f .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1f .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
 #features7-14 .card-subtitle {
   color: #bcbcbc;
 }
@@ -811,6 +818,7 @@ h6,
 }
 #features7-14 P {
   text-align: center;
+  color: #000000;
 }
 #features7-15 .card-subtitle {
   color: #bcbcbc;
