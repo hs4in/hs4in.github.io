@@ -950,7 +950,7 @@
             "showButton": false
           },
           "title": "WEBSiTES",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Useful websites, I believe that it will provide you with benefit and knowledge.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#Design #iOS #Learn #Shopping #Social<br></span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Useful websites, I believe that it will provide you with benefit and knowledge.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#Design #iOS #Learn #Movies #Shopping #Social<br></span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1024,25 +1024,25 @@
           },
           "title2": "Episodes Countdown",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Track your favourite series episodes #Movies",
+          "caption2": "Track your favourite series episodes. #Movies",
           "button2": "<a data-app-btn=\"true\" href=\"http://riffhold.com/2VzY\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
+              "name": "lock",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "http://tinyical.com/1RRq",
               "size": 0,
               "color": "#fff",
               "newWindow": true
             }
           },
-          "title3": "Website",
+          "title3": "Private Notes",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Description",
-          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
+          "caption3": "Write, lock and share your notes. #Social",
+          "button3": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1RRq\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
