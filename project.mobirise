@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "websites.html",
+    "currentPage": "ipastores.html",
     "name": "HS4iN",
     "theme": {
       "name": "mobirise3",
@@ -1807,7 +1807,7 @@
             "showButton": false
           },
           "title": "iPA Stores",
-          "text": "<p>iPA Stores contains unofficials apps &amp; games for iOS devices only.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#iPA #Plus #Cydia #Paid</span><br></p>",
+          "text": "<p>iPA Stores contains unofficials apps &amp; games for iOS devices only.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#iPA #Plus #Cydia #PaidApps #PaidGames #Removed</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1865,10 +1865,10 @@
               "newWindow": false
             }
           },
-          "title1": "iPA Store",
+          "title1": "iPasigner",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Best dark theme I've ever seen for Google Chrome, View &amp; Install it for free by clicking on the icon upside! #Design",
-          "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/1yoE\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption1": "#Plus #Cydia",
+          "button1": "<a data-app-btn=\"true\" href=\"http://atominik.com/3nXu\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1882,10 +1882,10 @@
               "newWindow": false
             }
           },
-          "title2": "iPA Store",
+          "title2": "Le890",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "This website allows you to drag your screenshots into several iPhone, iPad, Macbook...etc frames, which will make your screenshot looks more beautiful and realistic.&nbsp;#Design",
-          "button2": "<a data-app-btn=\"true\" href=\"http://microify.com/3AWr\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption2": "#PaidApps #PaidGames",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bluenik.com/329Y\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1899,9 +1899,9 @@
               "newWindow": false
             }
           },
-          "title3": "iPA Store",
+          "title3": "AppValley",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "This website will help you to know if your iDevice can be jailbreaked. You just need to specify your iDevice and iOS version, then wait for the result. #iOS",
+          "caption3": "#Plus",
           "button3": "<a data-app-btn=\"true\" href=\"http://babblecase.com/2AFB\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
@@ -1918,7 +1918,7 @@
           },
           "title4": "iPA Store",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "More than a thousand courses on a single website to teach you how-to..<br>#Learning",
+          "caption4": "#",
           "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/20lC\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {
@@ -2005,7 +2005,7 @@
           },
           "title1": "Perfect Logo",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "This website will suggest you the best colours and fonts to design your organization's logo. #Design",
+          "caption1": "#Plus",
           "button1": "<a data-app-btn=\"true\" href=\"http://bitigee.com/24VM\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
@@ -2022,7 +2022,7 @@
           },
           "title2": "Your Next Movie?",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "This website shows you the new and coming soon movies at Cinema and Netflix ...and more features. #Movies",
+          "caption2": "#",
           "button2": "<a data-app-btn=\"true\" href=\"http://atomcurve.com/1LUK\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
@@ -2039,7 +2039,7 @@
           },
           "title3": "Be Awesome!",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "An awesome lifestyle market for clothing, cases, pillows and lots of things that you'll use it daily. #Shopping",
+          "caption3": "#",
           "button3": "<a data-app-btn=\"true\" href=\"http://bitigee.com/2e56\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
@@ -2056,7 +2056,7 @@
           },
           "title4": "Icons World",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "This will help you to give extra beauty for your design, a huge number and shapes of icons. #Design",
+          "caption4": "#",
           "button4": "<a data-app-btn=\"true\" href=\"http://bitigee.com/2eGG\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media5": {
             "iconFont": {
@@ -2196,142 +2196,6 @@
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "The Biggest PDF (EBooks) website on the internet. #Learn",
           "button4": "<a data-app-btn=\"true\" href=\"http://picocurl.com/ZoN\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#000000",
-              "border-color": "#000000"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-1e",
-          "_params": {
-            "iconsBgColor": "#000000",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "extension",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "http://tinyical.com/1E1n",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "title1": "Social Control Panel!",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "This application will gather your emails and social media accounts in one place! available for MacOS, Windows and Linux. #Social",
-          "button1": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1E1n\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "change-style",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "http://tinyical.com/1ECK",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "title2": "Presentation Templates",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Powerpoint templates will assist you presenting something better. #Design",
-          "button2": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1ECK\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "title3": "Website",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Describe",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "linegraph",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "title4": "Website",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Describe",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
