@@ -1011,49 +1011,55 @@
           "button1": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1OeF\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "edit",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": true
             }
           },
           "title2": "Website",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Description",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "briefcase",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": true
             }
           },
           "title3": "Website",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Description",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title4": "Website",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Description",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
