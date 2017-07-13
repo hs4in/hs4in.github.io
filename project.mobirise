@@ -950,7 +950,7 @@
             "showButton": false
           },
           "title": "WEBSiTES",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Useful websites, I believe that it will provide you with benefit and knowledge.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#Design #iOS #Learn #Movies #Shopping #Social<br></span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Useful websites, I believe that it will provide you with benefit and knowledge.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#Design #iOS #Learn #Movies #Shopping #Apps<br></span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1041,25 +1041,25 @@
           },
           "title3": "Private Notes",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Write, lock and share your notes. #Social",
+          "caption3": "Write, lock and share your notes with a short link safely. #Social",
           "button3": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1RRq\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "linegraph",
-              "family": "et-line",
+              "name": "extension",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "http://tinyical.com/1Rh5",
               "size": 0,
               "color": "#fff",
               "newWindow": false
             }
           },
-          "title4": "Website",
+          "title4": "Windows Apps",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Description",
-          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
+          "caption4": "A library contents the most important applications for Windows. #Apps",
+          "button4": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1Rh5\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -1563,7 +1563,7 @@
           },
           "title1": "Social Control Panel!",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "This application will gather your emails and social media accounts in one place! available for MacOS, Windows and Linux. #Social",
+          "caption1": "This application will gather your emails and social media accounts in one place! available for MacOS, Windows and Linux. #Apps",
           "button1": "<a data-app-btn=\"true\" href=\"http://tinyical.com/1E1n\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
