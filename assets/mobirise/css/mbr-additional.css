@@ -802,6 +802,13 @@ h6,
 #msg-box8-13 .lead P {
   color: #ffffff;
 }
+#features7-1g .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1g .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
 #features7-1f .card-subtitle {
   color: #bcbcbc;
 }
@@ -923,6 +930,13 @@ h6,
 #msg-box8-1a .lead P {
   color: #ffffff;
 }
+#features7-1d .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1d .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
 #features7-1b .card-subtitle {
   color: #bcbcbc;
 }
@@ -937,13 +951,6 @@ h6,
   color: #bcbcbc;
 }
 #features7-1c .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-1d .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1d .iconbox {
   background-color: #000000;
   border-color: #000000;
 }
