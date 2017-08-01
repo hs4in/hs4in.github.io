@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "websites.html",
     "name": "HS4iN",
     "theme": {
       "name": "mobirise3",
@@ -994,64 +994,71 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "extension",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://simizer.com/Txi",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Apps Alternatives",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption1": "موقع يقترح لك تطبيقات بديلة للتطبيق اللذي تريده في حال عدم توفره لنظام تشغيل جهازك.<br>#Apps",
+          "button1": "<a data-app-btn=\"true\" href=\"http://simizer.com/Txi\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "edit",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://simizer.com/U0X",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": true
             }
           },
-          "title2": "Responsive",
+          "title2": "Charts Maker",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One&nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption2": "موقع لتصميم الخرائط أو ما يسمى بالرسوم البيانية بعدة أشكال مختلفه.<br>#Design",
+          "button2": "<a data-app-btn=\"true\" href=\"http://simizer.com/U0X\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
-          "title3": "Web Fonts",
+          "title3": "HD Videos",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption3": "موقع يوفر مقاطع فيديو ذات جوده عاليه و إحترافيه, جاهزة للإستخدام في المونتاج و مقاطع الفيديو.<br>#Design&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"http://simizer.com/U9f\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://simizer.com/UIm",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": true
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Logo Maker",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "caption4": "موقع يصنع شعار في ٤ خطوات فقط.. كل ماعليك هو كتابة الأسم و تحديد عدد الألونا و نوع الخط والمجال.<br>#Design",
+          "button4": "<a data-app-btn=\"true\" href=\"http://simizer.com/UIm\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -2483,6 +2490,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header1-1l",
           "_params": {
             "parallax": true,
@@ -2505,15 +2520,7 @@
           },
           "title": "أكسبرس فبن بالأندرويد<br><br>",
           "text": "*لا أملك جهاز أندرويد, لذلك أستخدم تطبيق “جينيموشن” على الماك.<br>(من داخل التطبيق: سامسونج جالاكسي - نوت ٣ - ٤.٤.٤)<br><a href=\"https://www.genymotion.com\" target=\"_blank\">https://www.genymotion.com</a><br><br>- أولاً -<br>: تثبيت “Genymotion ARM Translation” لتفعيل خاصية السحب و الإفلات :<br><a href=\"http://mmoity.com/1Ft6\" target=\"_blank\">http://mmoity.com/1Ft6</a><br><br><b>---------- &nbsp;إذا كنت تملك جهاز أندرويد فإبدأ من هنا مباشرة ----------</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>- ثانياً -<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;تثبيت ملف “Super SU” لعمل الرووت (اسحبه إلى تطبيق جينيموشن) :</span><br><a href=\"http://mmoity.com/1Fou\" target=\"_blank\">http://mmoity.com/1Fou</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>- ثالثاً -<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;تثبيت ملف “Root Browser” لتصفح كل ملفات الجهاز بالسحب :</span><br><a href=\"http://mmoity.com/1Fmp\" target=\"_blank\">http://mmoity.com/1Fmp</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>- رابعاً -<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;تثبيت ملف “ExpressVPN” بالسحب :</span><br><a href=\"http://mmoity.com/1FwP\" target=\"_blank\">http://mmoity.com/1FwP</a><br><br>-<br><br>العمل : <br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">:شرح فيديو</span><br><a href=\"http://mmoity.com/1G84\" target=\"_blank\">http://mmoity.com/1G84</a><br><br>--<br>بإستخدام Root Browser<br>افتح الملف التالي : Data - Data - com.expressvpn.vpn - shared_prefs - ApplicationExpressVpn.xml<br><br>و أبحث فيه عن :<br>preferences_openvpn_long_activation_code<br>ستجد تحتها مباشرة الكود التجريبي, انسخه و استخدمه و شاركه مع من تشاء<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOW</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOW</a> "
         }
       ]
     }
